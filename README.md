@@ -3,7 +3,7 @@
 
 Straight-forward keras implementations for 90-degree roto-reflections equivariant CNNs. See a [working example](https://github.com/basveeling/keras-gcnn/blob/master/examples/g_densnet_cifar.py).
 
-Install: `pip install git+https://github.com/nom/GrouPy#egg=GrouPy -e git+https://github.com/basveeling/keras-gcnn.git#egg=keras_gcnn`
+Install: `pip install git+https://github.com/nom/GrouPy#egg=GrouPy -e git+https://github.com/CreateRandom/keras-gcnn.git#egg=keras_gcnn`
 
 Requires python 3, up to date keras and a tensorflow backend.
 Please report any problems in the issues.
